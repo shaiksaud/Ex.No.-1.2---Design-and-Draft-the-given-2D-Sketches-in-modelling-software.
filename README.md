@@ -36,7 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ # Name : Shaik Saud S
+ <img width="1901" height="971" alt="ex 1 2" src="https://github.com/user-attachments/assets/70d83fca-267c-43f0-8f27-2d4717571343" />
+<img width="1911" height="927" alt="ex 1 2 Drawing" src="https://github.com/user-attachments/assets/528f8057-24f4-4355-9a23-7432c9c7f30d" />
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
